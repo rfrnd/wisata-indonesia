@@ -331,10 +331,6 @@ header.shadow .logo {
     color: var(--bg-color);
 }
 
-.box a{
-/*     pointer-events: none; */
-}
-
 @media (max-width: 1280px){
     .home-text{
         padding: 200px 100px;
