@@ -4,9 +4,9 @@ Wisata Indonesia adalah proyek website yang memungkinkan pengguna untuk menjelaj
 ## Penggunaan
 1. Buka website di browser. ==> https://rfrnd.github.io/wisata-indonesia/
 2. Pilih provinsi yang ingin Anda jelajahi.
-   ** Desktop ==> Pilih satu dari 5 pulau besar di bagian navbar untuk pindah ke laman 'tempat wisata berdasarkan provinsi di pulau tersebut' atau Scroll kebawah untuk melihat provinsi-provinsi beserta foto tempat wisata di indonesia, lalu pilih satu provinsi untuk melihat lebih banyak pilihan wisata.
-   ** Handphone ==> tekan hamburger menu dibagian navbar dan Pilih satu dari 5 pulau besar di bagian navbar untuk pindah ke laman 'tempat wisata berdasarkan provinsi di pulau tersebut' atau Scroll kebawah untuk melihat provinsi-provinsi beserta foto tempat wisata di indonesia, lalu pilih satu provinsi untuk melihat lebih banyak pilihan wisata.
-4. Lihat daftar tempat wisata di provinsi tersebut.
+4. ** Desktop ==> Pilih satu dari 5 pulau besar di bagian navbar untuk pindah ke laman 'tempat wisata berdasarkan provinsi di pulau tersebut' atau Scroll kebawah untuk melihat provinsi-provinsi beserta foto tempat wisata di indonesia, lalu pilih satu provinsi untuk melihat lebih banyak pilihan wisata.
+5. ** Handphone ==> tekan hamburger menu dibagian navbar dan Pilih satu dari 5 pulau besar di bagian navbar untuk pindah ke laman 'tempat wisata berdasarkan provinsi di pulau tersebut' atau Scroll kebawah untuk melihat provinsi-provinsi beserta foto tempat wisata di indonesia, lalu pilih satu provinsi untuk melihat lebih banyak pilihan wisata.
+6. Lihat daftar tempat wisata di provinsi tersebut.
 
 ## Link Ke Dokumentasi Lengkap
 Dokumentasi lengkap dapat ditemukan di (https://drive.google.com/drive/folders/1GTNv06ncuSZC078h6L2uBgVT1SV7EYHT?usp=sharing).
